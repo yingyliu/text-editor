@@ -10,7 +10,7 @@
 
 
 ## Description
-This is can use for offline text editing. The technology is based on PWA.
+This app can be used for offline text editing. The technology is based on PWA.
 
 
 ## Tech used
